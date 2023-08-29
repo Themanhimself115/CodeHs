@@ -1,5 +1,11 @@
 # CodeHs
 CodeHs Karel Programming Basics Answers
+---
+
+Download File Here: -->
+
+https://www.mediafire.com/file/pian0317j2ipgct/CodeHs.zip/file
+
 --------
 The File contains only the written answers for CodeHs Karel programming and does not include the video or the quick showcases of the code.
 
